@@ -1,5 +1,5 @@
 # Niggaclient_v2
-## vrchat client source,
+## vrchat client source.
 
 Literally drag this into Mods in Melonloader and it should load a simple IMGUI and a FPS counter
 
